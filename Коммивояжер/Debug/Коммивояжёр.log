@@ -1,0 +1,110 @@
+﻿  Kommi.cpp
+C:\Users\Ese4ka\OneDrive\Рабочий стол\Комми\base\glbag.h(25,53): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+C:\Users\Ese4ka\OneDrive\Рабочий стол\Комми\base\glbag.h(25,36): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+C:\Users\Ese4ka\OneDrive\Рабочий стол\Комми\base\glbag.h(25,21): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+C:\Users\Ese4ka\OneDrive\Рабочий стол\Комми\base\glbag.h(45,10): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\Ese4ka\OneDrive\Рабочий стол\Комми\base\glbag.h(46,10): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\Ese4ka\OneDrive\Рабочий стол\Комми\base\glbag.h(48,23): warning C4244: -=: преобразование "double" в "int", возможна потеря данных
+C:\Users\Ese4ka\OneDrive\Рабочий стол\Комми\base\glbag.h(51,19): warning C4244: -=: преобразование "double" в "int", возможна потеря данных
+C:\Users\Ese4ka\OneDrive\Рабочий стол\Комми\base\glbag.h(60,21): warning C4244: аргумент: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\Ese4ka\OneDrive\Рабочий стол\Комми\base\glbag.h(60,17): warning C4244: аргумент: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\Ese4ka\OneDrive\Рабочий стол\Комми\base\glbag.h(71,38): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+C:\Users\Ese4ka\OneDrive\Рабочий стол\Комми\base\glbag.h(71,26): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+C:\Users\Ese4ka\OneDrive\Рабочий стол\Комми\base\glbag.h(71,16): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+C:\Users\Ese4ka\OneDrive\Рабочий стол\Комми\base\glbag.h(76,18): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+C:\Users\Ese4ka\OneDrive\Рабочий стол\Комми\base\glbag.h(76,14): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+C:\Users\Ese4ka\OneDrive\Рабочий стол\Комми\base\glbag.h(80,44): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+C:\Users\Ese4ka\OneDrive\Рабочий стол\Комми\base\glbag.h(80,30): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+C:\Users\Ese4ka\OneDrive\Рабочий стол\Комми\base\glbag.h(80,18): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+C:\Users\Ese4ka\OneDrive\Рабочий стол\Комми\base\glbag.h(85,18): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+C:\Users\Ese4ka\OneDrive\Рабочий стол\Комми\base\glbag.h(85,14): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+C:\Users\Ese4ka\OneDrive\Рабочий стол\Комми\base\glbag.h(91,41): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+C:\Users\Ese4ka\OneDrive\Рабочий стол\Комми\base\glbag.h(91,28): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+C:\Users\Ese4ka\OneDrive\Рабочий стол\Комми\base\glbag.h(91,17): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+C:\Users\Ese4ka\OneDrive\Рабочий стол\Комми\base\glbag.h(94,17): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+C:\Users\Ese4ka\OneDrive\Рабочий стол\Комми\base\glbag.h(94,13): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+C:\Users\Ese4ka\OneDrive\Рабочий стол\Комми\Kommi.cpp(151,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Ese4ka\OneDrive\Рабочий стол\Комми\Kommi.cpp(154,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Ese4ka\OneDrive\Рабочий стол\Комми\Kommi.cpp(167,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Ese4ka\OneDrive\Рабочий стол\Комми\Kommi.cpp(170,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Ese4ka\OneDrive\Рабочий стол\Комми\Kommi.cpp(180,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Ese4ka\OneDrive\Рабочий стол\Комми\Kommi.cpp(215,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Ese4ka\OneDrive\Рабочий стол\Комми\Kommi.cpp(216,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Ese4ka\OneDrive\Рабочий стол\Комми\Kommi.cpp(263,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Ese4ka\OneDrive\Рабочий стол\Комми\Kommi.cpp(264,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Ese4ka\OneDrive\Рабочий стол\Комми\Kommi.cpp(273,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Ese4ka\OneDrive\Рабочий стол\Комми\Kommi.cpp(278,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Ese4ka\OneDrive\Рабочий стол\Комми\Kommi.cpp(397,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Ese4ka\OneDrive\Рабочий стол\Комми\Kommi.cpp(418,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Ese4ka\OneDrive\Рабочий стол\Комми\utils.h(31,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Ese4ka\OneDrive\Рабочий стол\Комми\Kommi.cpp(379): message : выполняется компиляция ссылки на экземпляр шаблон функции "void printVector<Edge>(std::vector<Edge,std::allocator<Edge>>)"
+C:\Users\Ese4ka\OneDrive\Рабочий стол\Комми\base\Tree.cpp(296,19): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\Ese4ka\OneDrive\Рабочий стол\Комми\base\Tree.cpp(291): message : во время компиляции функции-члена класс шаблон "void Tree<int>::update(void)"
+C:\Users\Ese4ka\OneDrive\Рабочий стол\Комми\base\Tree.cpp(43): message : выполняется компиляция ссылки на экземпляр шаблон функции "void Tree<int>::update(void)"
+C:\Users\Ese4ka\OneDrive\Рабочий стол\Комми\base\Tree.cpp(21): message : во время компиляции функции-члена класс шаблон "void Tree<int>::insertNode(Node<int> *)"
+C:\Users\Ese4ka\OneDrive\Рабочий стол\Комми\Tree.h(9): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "Tree<int>"
+C:\Users\Ese4ka\OneDrive\Рабочий стол\Комми\base\Tree.cpp(299,19): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\Ese4ka\OneDrive\Рабочий стол\Комми\base\Tree.cpp(220,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Ese4ka\OneDrive\Рабочий стол\Комми\base\Tree.cpp(214): message : во время компиляции функции-члена класс шаблон "void Tree<int>::convertToBalanced(void)"
+C:\Users\Ese4ka\OneDrive\Рабочий стол\Комми\base\Tree.cpp(137): message : выполняется компиляция ссылки на экземпляр шаблон функции "void Tree<int>::convertToBalanced(void)"
+C:\Users\Ese4ka\OneDrive\Рабочий стол\Комми\base\Tree.cpp(243,30): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Ese4ka\OneDrive\Рабочий стол\Комми\base\Tree.cpp(226): message : во время компиляции функции-члена класс шаблон "void Tree<int>::convertToSearch(void)"
+C:\Users\Ese4ka\OneDrive\Рабочий стол\Комми\base\Tree.cpp(135): message : выполняется компиляция ссылки на экземпляр шаблон функции "void Tree<int>::convertToSearch(void)"
+C:\Users\Ese4ka\OneDrive\Рабочий стол\Комми\base\Tree.cpp(315,13): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\Ese4ka\OneDrive\Рабочий стол\Комми\base\Tree.cpp(305): message : во время компиляции функции-члена класс шаблон "void Tree<int>::update(Node<int> *,int)"
+C:\Users\Ese4ka\OneDrive\Рабочий стол\Комми\base\Tree.cpp(301): message : выполняется компиляция ссылки на экземпляр шаблон функции "void Tree<int>::update(Node<int> *,int)"
+C:\Users\Ese4ka\OneDrive\Рабочий стол\Комми\base\Tree.cpp(291): message : во время компиляции функции-члена класс шаблон "void Tree<int>::update(void)"
+C:\Users\Ese4ka\OneDrive\Рабочий стол\Комми\base\Tree.cpp(43): message : выполняется компиляция ссылки на экземпляр шаблон функции "void Tree<int>::update(void)"
+C:\Users\Ese4ka\OneDrive\Рабочий стол\Комми\base\Tree.cpp(287,13): warning C4244: return: преобразование "double" в "int", возможна потеря данных
+C:\Users\Ese4ka\OneDrive\Рабочий стол\Комми\base\Tree.cpp(285): message : во время компиляции функции-члена класс шаблон "int Tree<int>::getHeight(Node<int> *)"
+C:\Users\Ese4ka\OneDrive\Рабочий стол\Комми\base\Tree.cpp(281): message : выполняется компиляция ссылки на экземпляр шаблон функции "int Tree<int>::getHeight(Node<int> *)"
+  main.cpp
+C:\Users\Ese4ka\OneDrive\Рабочий стол\Комми\base\glbag.h(25,53): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+C:\Users\Ese4ka\OneDrive\Рабочий стол\Комми\base\glbag.h(25,36): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+C:\Users\Ese4ka\OneDrive\Рабочий стол\Комми\base\glbag.h(25,21): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+C:\Users\Ese4ka\OneDrive\Рабочий стол\Комми\base\glbag.h(45,10): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\Ese4ka\OneDrive\Рабочий стол\Комми\base\glbag.h(46,10): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\Ese4ka\OneDrive\Рабочий стол\Комми\base\glbag.h(48,23): warning C4244: -=: преобразование "double" в "int", возможна потеря данных
+C:\Users\Ese4ka\OneDrive\Рабочий стол\Комми\base\glbag.h(51,19): warning C4244: -=: преобразование "double" в "int", возможна потеря данных
+C:\Users\Ese4ka\OneDrive\Рабочий стол\Комми\base\glbag.h(60,21): warning C4244: аргумент: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\Ese4ka\OneDrive\Рабочий стол\Комми\base\glbag.h(60,17): warning C4244: аргумент: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\Ese4ka\OneDrive\Рабочий стол\Комми\base\glbag.h(71,38): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+C:\Users\Ese4ka\OneDrive\Рабочий стол\Комми\base\glbag.h(71,26): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+C:\Users\Ese4ka\OneDrive\Рабочий стол\Комми\base\glbag.h(71,16): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+C:\Users\Ese4ka\OneDrive\Рабочий стол\Комми\base\glbag.h(76,18): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+C:\Users\Ese4ka\OneDrive\Рабочий стол\Комми\base\glbag.h(76,14): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+C:\Users\Ese4ka\OneDrive\Рабочий стол\Комми\base\glbag.h(80,44): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+C:\Users\Ese4ka\OneDrive\Рабочий стол\Комми\base\glbag.h(80,30): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+C:\Users\Ese4ka\OneDrive\Рабочий стол\Комми\base\glbag.h(80,18): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+C:\Users\Ese4ka\OneDrive\Рабочий стол\Комми\base\glbag.h(85,18): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+C:\Users\Ese4ka\OneDrive\Рабочий стол\Комми\base\glbag.h(85,14): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+C:\Users\Ese4ka\OneDrive\Рабочий стол\Комми\base\glbag.h(91,41): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+C:\Users\Ese4ka\OneDrive\Рабочий стол\Комми\base\glbag.h(91,28): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+C:\Users\Ese4ka\OneDrive\Рабочий стол\Комми\base\glbag.h(91,17): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+C:\Users\Ese4ka\OneDrive\Рабочий стол\Комми\base\glbag.h(94,17): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+C:\Users\Ese4ka\OneDrive\Рабочий стол\Комми\base\glbag.h(94,13): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+C:\Users\Ese4ka\OneDrive\Рабочий стол\Комми\main.cpp(23,50): warning C4244: аргумент: преобразование "double" в "GLclampf", возможна потеря данных
+C:\Users\Ese4ka\OneDrive\Рабочий стол\Комми\main.cpp(23,35): warning C4244: аргумент: преобразование "double" в "GLclampf", возможна потеря данных
+C:\Users\Ese4ka\OneDrive\Рабочий стол\Комми\main.cpp(23,22): warning C4244: аргумент: преобразование "double" в "GLclampf", возможна потеря данных
+C:\Users\Ese4ka\OneDrive\Рабочий стол\Комми\base\Tree.cpp(296,19): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\Ese4ka\OneDrive\Рабочий стол\Комми\base\Tree.cpp(291): message : во время компиляции функции-члена класс шаблон "void Tree<int>::update(void)"
+C:\Users\Ese4ka\OneDrive\Рабочий стол\Комми\base\Tree.cpp(43): message : выполняется компиляция ссылки на экземпляр шаблон функции "void Tree<int>::update(void)"
+C:\Users\Ese4ka\OneDrive\Рабочий стол\Комми\base\Tree.cpp(21): message : во время компиляции функции-члена класс шаблон "void Tree<int>::insertNode(Node<int> *)"
+C:\Users\Ese4ka\OneDrive\Рабочий стол\Комми\Tree.h(9): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "Tree<int>"
+C:\Users\Ese4ka\OneDrive\Рабочий стол\Комми\base\Tree.cpp(299,19): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\Ese4ka\OneDrive\Рабочий стол\Комми\base\Tree.cpp(220,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Ese4ka\OneDrive\Рабочий стол\Комми\base\Tree.cpp(214): message : во время компиляции функции-члена класс шаблон "void Tree<int>::convertToBalanced(void)"
+C:\Users\Ese4ka\OneDrive\Рабочий стол\Комми\base\Tree.cpp(137): message : выполняется компиляция ссылки на экземпляр шаблон функции "void Tree<int>::convertToBalanced(void)"
+C:\Users\Ese4ka\OneDrive\Рабочий стол\Комми\base\Tree.cpp(243,30): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Ese4ka\OneDrive\Рабочий стол\Комми\base\Tree.cpp(226): message : во время компиляции функции-члена класс шаблон "void Tree<int>::convertToSearch(void)"
+C:\Users\Ese4ka\OneDrive\Рабочий стол\Комми\base\Tree.cpp(135): message : выполняется компиляция ссылки на экземпляр шаблон функции "void Tree<int>::convertToSearch(void)"
+C:\Users\Ese4ka\OneDrive\Рабочий стол\Комми\base\Tree.cpp(315,13): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\Ese4ka\OneDrive\Рабочий стол\Комми\base\Tree.cpp(305): message : во время компиляции функции-члена класс шаблон "void Tree<int>::update(Node<int> *,int)"
+C:\Users\Ese4ka\OneDrive\Рабочий стол\Комми\base\Tree.cpp(301): message : выполняется компиляция ссылки на экземпляр шаблон функции "void Tree<int>::update(Node<int> *,int)"
+C:\Users\Ese4ka\OneDrive\Рабочий стол\Комми\base\Tree.cpp(291): message : во время компиляции функции-члена класс шаблон "void Tree<int>::update(void)"
+C:\Users\Ese4ka\OneDrive\Рабочий стол\Комми\base\Tree.cpp(43): message : выполняется компиляция ссылки на экземпляр шаблон функции "void Tree<int>::update(void)"
+C:\Users\Ese4ka\OneDrive\Рабочий стол\Комми\base\Tree.cpp(287,13): warning C4244: return: преобразование "double" в "int", возможна потеря данных
+C:\Users\Ese4ka\OneDrive\Рабочий стол\Комми\base\Tree.cpp(285): message : во время компиляции функции-члена класс шаблон "int Tree<int>::getHeight(Node<int> *)"
+C:\Users\Ese4ka\OneDrive\Рабочий стол\Комми\base\Tree.cpp(281): message : выполняется компиляция ссылки на экземпляр шаблон функции "int Tree<int>::getHeight(Node<int> *)"
+  Создание кода...
+  Коммивояжёр.vcxproj -> C:\Users\Ese4ka\OneDrive\Рабочий стол\Комми\Debug\Коммивояжер.exe

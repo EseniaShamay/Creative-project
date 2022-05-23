@@ -1,0 +1,11 @@
+﻿  Graph.cpp
+C:\Users\Ese4ka\OneDrive\Рабочий стол\Комми\Graph.cpp(1,10): fatal error C1083: Не удается открыть файл включение: GL/freeglut.h: No such file or directory,
+  Kommi.cpp
+C:\Users\Ese4ka\OneDrive\Рабочий стол\Комми\base\Node.cpp(4,10): fatal error C1083: Не удается открыть файл включение: GL/freeglut.h: No such file or directory,
+  main.cpp
+C:\Users\Ese4ka\OneDrive\Рабочий стол\Комми\base\glbag.h(2,10): fatal error C1083: Не удается открыть файл включение: GL/freeglut.h: No such file or directory,
+  Node.cpp
+C:\Users\Ese4ka\OneDrive\Рабочий стол\Комми\base\Node.cpp(4,10): fatal error C1083: Не удается открыть файл включение: GL/freeglut.h: No such file or directory,
+  Tree.cpp
+C:\Users\Ese4ka\OneDrive\Рабочий стол\Комми\base\Node.cpp(4,10): fatal error C1083: Не удается открыть файл включение: GL/freeglut.h: No such file or directory,
+  Создание кода...

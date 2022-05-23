@@ -1,0 +1,4 @@
+C:\Users\Ese4ka\OneDrive\Рабочий стол\clcltr\cccalc\cccalc\Debug\cccalc.vcxproj.AssemblyReference.cache
+C:\Users\Ese4ka\OneDrive\Рабочий стол\clcltr\cccalc\cccalc\Debug\cccalc.MyForm.resources
+C:\Users\Ese4ka\OneDrive\Рабочий стол\clcltr\cccalc\cccalc\Debug\cccalc.vcxproj.GenerateResource.cache
+C:\Users\Ese4ka\OneDrive\Рабочий стол\clcltr\cccalc\cccalc\Debug\cccalc.ButtonRound.resources

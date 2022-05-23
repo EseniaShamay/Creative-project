@@ -1,0 +1,7 @@
+﻿  MyForm.cpp
+C:\Users\Ese4ka\OneDrive\Рабочий стол\clcltr\cccalc\cccalc\MyForm.h(745,15): warning C4244: инициализация: преобразование "wchar_t" в "char", возможна потеря данных
+C:\Users\Ese4ka\OneDrive\Рабочий стол\clcltr\cccalc\cccalc\MyForm.h(752,15): warning C4244: инициализация: преобразование "wchar_t" в "char", возможна потеря данных
+C:\Users\Ese4ka\OneDrive\Рабочий стол\clcltr\cccalc\cccalc\MyForm.h(777,15): warning C4244: инициализация: преобразование "wchar_t" в "char", возможна потеря данных
+C:\Users\Ese4ka\OneDrive\Рабочий стол\clcltr\cccalc\cccalc\MyForm.cpp(7,1): warning C4829: Возможно, неправильные параметры функции main. Рекомендуемый вариант - "int main(Platform::Array<Platform::String^>^ argv)"
+  ButtonRound.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  cccalc.vcxproj -> C:\Users\Ese4ka\OneDrive\Рабочий стол\clcltr\cccalc\Debug\cccalc.exe
